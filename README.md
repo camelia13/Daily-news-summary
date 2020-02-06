@@ -25,5 +25,5 @@
  
  
  ## References
- • https://github.com/lovit/soynlp
+ • https://github.com/lovit/soynlp  
  • https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
