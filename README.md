@@ -1,4 +1,4 @@
-<span style="font-size:larger;"> Daily-news-summary </span> with users's responses by sites which are Naver and Daum
+# Daily-news-summary with users's responses by sites which are Naver and Daum
 네이버와 다음 뉴스의 일일 이슈 요약과 그에 따른 이용자의 댓글을 분석하는 프로젝트입니다.
  
  
@@ -7,7 +7,15 @@
  
  
  ## Source of Data
+ * __기간:__ 2019.07.01. ~ 2019.07.10.
+ * __수집 방법:__ Web crawling
+ * __수집 대상:__ 정치 분야 많이 본 뉴스; 일 30개 기사 제목과 기사의 댓글
+     * Naver: https://news.naver.com/main/ranking/popularDay.nhn?rankingType=popular_day&sectionId=100&date=20190701
+     * Daum: https://media.daum.net/ranking/popular/?regDate=20190701 
  
+ ## Authors
+ • Songil Kim
+ • Yongjin Kim
  
  ## References
  • https://github.com/lovit/soynlp
