@@ -1,4 +1,4 @@
-# Daily-news-summary <span style="font-size:10pt;>with users's responses by sites which are Naver and Daum</span>
+# Daily-news-summary <span style="font-size:10pt;">with users's responses by sites which are Naver and Daum</span>
 네이버와 다음 뉴스의 일일 이슈 요약과 그에 따른 이용자의 댓글을 분석하는 프로젝트입니다.
 
  
